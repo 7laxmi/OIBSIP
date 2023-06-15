@@ -80,6 +80,6 @@ public class Bank
         w.printBalance();
         w.withdraw();
         w.deposit();
-        
+        sc.close();
     }
 }
